@@ -18,7 +18,7 @@ Event Manager | 5.0.0   | [download]({{site.baseurl}}/assets/downloads/5.0.0/adg
 Console Ad    | 5.0.0   | [download]({{site.baseurl}}/assets/downloads/5.0.0/adgear-ios-consolead-v5.0.0.zip)
 Trader Ad     | 5.0.0   | [download]({{site.baseurl}}/assets/downloads/5.0.0/adgear-ios-traderad-v5.0.0.zip)
 Spot View     | 5.0.0   | [download]({{site.baseurl}}/assets/downloads/5.0.0/adgear-ios-spotview-v5.0.0.zip)
-MRAID WebView | 5.0.0   | [download]({{site.baseurl}}/assets/downloads/4.0.1/adgear-ios-mraidwebview-v5.0.0.zip)
+MRAID WebView | 5.0.0   | [download]({{site.baseurl}}/assets/downloads/5.0.0/adgear-ios-mraidwebview-v5.0.0.zip)
 
 ## Copyright & License
 
