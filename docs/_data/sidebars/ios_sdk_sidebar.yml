@@ -32,8 +32,12 @@ entries:
       url: /downloads
       output: web, pdf
 
-    - title: Getting Started
-      url: /getting-started
+    - title: SDK Setup
+      url: /sdk-setup
+      output: web, pdf
+
+    - title: Console Ads Quick Start
+      url: /consolead-quick-start
       output: web, pdf
 
     - title: Migration Guide
