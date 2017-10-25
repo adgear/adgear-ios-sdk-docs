@@ -1,0 +1,130 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: iOS Ad SDK
+  version: v5.0.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+
+  - title: SDK
+    output: web, pdf
+    folderitems:
+
+    - title: Overview
+      url: /
+      output: web, pdf
+      type: homepage
+
+    - title: Downloads
+      url: /downloads
+      output: web, pdf
+
+    - title: Getting Started
+      url: /getting-started
+      output: web, pdf
+
+    - title: Migration Guide
+      url: /migration-guide
+      output: web, pdf
+
+  - title: Console Ad Framework
+    output: web, pdf
+    folderitems:
+
+    - title: Overview
+      url: /consolad-overview
+      output: web, pdf
+      type: homepage
+
+    - title: Request Ad
+      url: /consolad-request
+      output: web, pdf
+
+    - title: Ad Model
+      url: /consolad-admodel
+      output: web, pdf
+
+    - title: Cache Manager
+      url: /consolad-cachemanager
+      output: web, pdf
+
+    - title: Native Ads
+      url: /consolad-nativeads
+      output: web, pdf
+
+  - title: Trader Ad Framework
+    output: web, pdf
+    folderitems:
+
+    - title: Overview
+      url: /traderad-overview
+      output: web, pdf
+      type: homepage
+
+    - title: Request Ad
+      url: /traderad-request
+      output: web, pdf
+
+    - title: Ad Model
+      url: /traderad-admodel
+      output: web, pdf
+
+    - title: Cache Manager
+      url: /traderad-cachemanager
+      output: web, pdf
+
+    - title: Native Ads
+      url: /traderad-nativeads
+      output: web, pdf
+
+  - title: Event Manager Framework
+    output: web, pdf
+    folderitems:
+
+    - title: Overview
+      url: /eventmanager-overview
+      output: web, pdf
+      type: homepage
+
+    - title: Event Manager Context
+      url: /eventmanager-context
+      output: web, pdf
+
+    - title: Register Events
+      url: /eventmanager-reg-events
+      output: web, pdf
+
+  - title: Spot View Framework
+    output: web, pdf
+    folderitems:
+
+    - title: Overview
+      url: /spotview-overview
+      output: web, pdf
+      type: homepage
+
+    - title: Methods
+      url: /spotview-methods
+      output: web, pdf
+
+  - title: Sample Projects
+    output: web, pdf
+    folderitems:
+
+    - title: Console Ads Sample Project
+      url: /consolead-sample-project
+      output: web, pdf
+      type: homepage
