@@ -8,7 +8,7 @@ permalink: /downloads
 
 Framework             | Version | Link
 --------------------- | ------- | --------------
-All Frameworks        | 5.0.0   | [download]({{site.baseurl}}/assets/downloads/5.0.5/adgear-ios-sdk-v5.0.0.zip)
+All Frameworks        | 5.0.0   | [download]({{site.baseurl}}/assets/downloads/5.0.0/adgear-ios-sdk-v5.0.0.zip)
 
 ## AdGear Mobile SDK Individual Frameworks
 
