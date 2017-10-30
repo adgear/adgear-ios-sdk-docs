@@ -40,6 +40,10 @@ entries:
       url: /consolead-quick-start
       output: web, pdf
 
+    - title: Trader Ads Quick Start
+      url: /traderad-quick-start
+      output: web, pdf
+
     - title: Migration Guide
       url: /migration-guide
       output: web, pdf
@@ -49,24 +53,24 @@ entries:
     folderitems:
 
     - title: Overview
-      url: /consolad-overview
+      url: /consolead-overview
       output: web, pdf
       type: homepage
 
     - title: Request Ad
-      url: /consolad-request
+      url: /consolead-request
       output: web, pdf
 
     - title: Ad Model
-      url: /consolad-admodel
+      url: /consolead-admodel
       output: web, pdf
 
     - title: Cache Manager
-      url: /consolad-cachemanager
+      url: /consolead-cachemanager
       output: web, pdf
 
     - title: Native Ads
-      url: /consolad-nativeads
+      url: /consolead-nativeads
       output: web, pdf
 
   - title: Trader Ad Framework

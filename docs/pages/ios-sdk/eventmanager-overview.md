@@ -14,4 +14,4 @@ summary: Event manager is at the heart of AdGear mobile SDK and is responsible f
 
 1. Go to **[Downloads]({{site.baseurl}}/downloads)** section and download the framework.
 
-2. Refer to **[Getting Started]({{site.baseurl}}/getting-started)** section for instructions on how to add and configure the framework in you project.
+2. Refer to **[SDK Setup]({{site.baseurl}}/sdk-setup)** section for instructions on how to add and configure the SDK in you project.
