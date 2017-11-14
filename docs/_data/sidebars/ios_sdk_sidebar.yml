@@ -3,7 +3,7 @@
 entries:
 - title: sidebar
   product: iOS Ad SDK
-  version: v5.0.0
+  version: v5.1.0
   folders:
 
   - title:
@@ -105,14 +105,29 @@ entries:
     - title: Overview
       url: /eventmanager-overview
       output: web, pdf
-      type: homepage
 
     - title: Event Manager Context
       url: /eventmanager-context
       output: web, pdf
 
+    - title: Console Configuration
+      url: /eventmanager-consolead-config
+      output: web, pdf
+
+    - title: Trader Configuration
+      url: /eventmanager-traderad-config
+      output: web, pdf
+
+    - title: URL Session
+      url: /eventmanager-url-connection
+      output: web, pdf
+
     - title: Register Events
       url: /eventmanager-reg-events
+      output: web, pdf
+
+    - title: Trader Segment API
+      url: /eventmanager-trader-segment
       output: web, pdf
 
   - title: Spot View Framework
@@ -134,5 +149,15 @@ entries:
 
     - title: Console Ads Sample Project
       url: /consolead-sample-project
+      output: web, pdf
+      type: homepage
+
+    - title: Console Native Ads Sample Project
+      url: /consolead-native-sample-project
+      output: web, pdf
+      type: homepage
+
+    - title: Trader Ads Sample Project
+      url: /traderad-sample-project
       output: web, pdf
       type: homepage

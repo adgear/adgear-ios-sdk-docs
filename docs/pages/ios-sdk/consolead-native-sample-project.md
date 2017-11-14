@@ -1,7 +1,7 @@
 ---
-title: Console Ads Sample Project
+title: Console Native Ads Sample Project
 sidebar: ios_sdk_sidebar
-permalink: /consolead-sample-project
+permalink: /consolead-native-sample-project
 ---
 
 Sample project is available in a separate public GitHub repository <a href="https://github.com/adgear/adgear-ios-sdk-samples">adgear-ios-sdk-samples]</a>.
@@ -24,7 +24,7 @@ git clone https://github.com/adgear/adgear-ios-sdk-samples.git
 
 ### 2. Open Project
 
-Start XCode and open `AdGearConsoleSample.xcodeproj` from your `adgear-samples/adgear-ios-sdk-samples/AdGearConsoleSample` directory.
+Start XCode and open `AdGearConsoleNativeAdSample.xcodeproj` from your `adgear-samples/adgear-ios-sdk-samples/AdGearConsoleNativeAdSample` directory.
 
 ### 3. Launch the Project
 

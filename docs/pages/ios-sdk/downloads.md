@@ -8,17 +8,17 @@ permalink: /downloads
 
 Framework             | Version | Link
 --------------------- | ------- | --------------
-All Frameworks        | 5.0.0   | [download]({{site.baseurl}}/assets/downloads/5.0.0/adgear-ios-sdk-v5.0.0.zip)
+All Frameworks        | 5.1.0   | [download]({{site.baseurl}}/assets/downloads/5.1.0/adgear-ios-sdk-v5.1.0.zip)
 
 ## AdGear Mobile SDK Individual Frameworks
 
 Framework     | Version | Link
 ------------- | ------- | --------------
-Event Manager | 5.0.0   | [download]({{site.baseurl}}/assets/downloads/5.0.0/adgear-ios-eventmanager-v5.0.0.zip)
-Console Ad    | 5.0.0   | [download]({{site.baseurl}}/assets/downloads/5.0.0/adgear-ios-consolead-v5.0.0.zip)
-Trader Ad     | 5.0.0   | [download]({{site.baseurl}}/assets/downloads/5.0.0/adgear-ios-traderad-v5.0.0.zip)
-Spot View     | 5.0.0   | [download]({{site.baseurl}}/assets/downloads/5.0.0/adgear-ios-spotview-v5.0.0.zip)
-MRAID WebView | 5.0.0   | [download]({{site.baseurl}}/assets/downloads/5.0.0/adgear-ios-mraidwebview-v5.0.0.zip)
+Event Manager | 5.1.0   | [download]({{site.baseurl}}/assets/downloads/5.1.0/adgear-ios-eventmanager-v5.1.0.zip)
+Console Ad    | 5.1.0   | [download]({{site.baseurl}}/assets/downloads/5.1.0/adgear-ios-consolead-v5.1.0.zip)
+Trader Ad     | 5.1.0   | [download]({{site.baseurl}}/assets/downloads/5.1.0/adgear-ios-traderad-v5.1.0.zip)
+Spot View     | 5.1.0   | [download]({{site.baseurl}}/assets/downloads/5.1.0/adgear-ios-spotview-v5.1.0.zip)
+MRAID WebView | 5.1.0   | [download]({{site.baseurl}}/assets/downloads/5.1.0/adgear-ios-mraidwebview-v5.1.0.zip)
 
 ## Copyright & License
 
