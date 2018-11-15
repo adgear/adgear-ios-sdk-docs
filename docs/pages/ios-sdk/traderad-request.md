@@ -8,12 +8,12 @@ summary: AGTraderAdModelRequest class provides basic methods to build Trader ad 
 ## Make Request URL
 
 ```
-NSURL *url = [AGTraderAdModelRequest makeUrlForSiteTagId:siteTagId width:width height:height];
+NSURL *url = [AGTraderAdModelRequest makeUrlForTagId:tagId width:width height:height];
 ```
 
 Build request URL to load Trader ad meta data.
 
-Takes **site tag id** as a `NSString`, as well as **width** and **height** of the ad as `int` in density independent pixels.
+Takes **tag id** as a `NSString`, as well as **width** and **height** of the ad as `int` in density independent pixels.
 
 ## Request Trader Ad Model
 
