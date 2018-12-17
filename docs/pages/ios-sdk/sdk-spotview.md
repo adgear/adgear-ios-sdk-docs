@@ -54,14 +54,14 @@ Implement delegate methods
 ```
 
 ```
-- (void)spotViewDidCallRegregisterImpression:(nonnull AGSpotView *)spotView {
-    // Spot View Did Call Regregister Impression
+- (void)spotViewDidCallRegisterImpression:(nonnull AGSpotView *)spotView {
+    // Spot View Did Call Register Impression
 }
 ```
 
 ```
 - (void)spotViewFailedToCallRegregisterImpression:(nonnull AGSpotView *)spotView {
-    // Spot View Failed To Call Regregister Impression
+    // Spot View Failed To Call Register Impression
 }
 ```
 

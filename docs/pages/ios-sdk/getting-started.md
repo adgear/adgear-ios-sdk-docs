@@ -25,7 +25,7 @@ You may also download individual frameworks if you do not require the entire set
 
 ![Name your project]({{site.baseurl}}/assets/images/create-project5.png)
 
-Select all frameworks in the folder and drag them into your project. You will see a diolog like the one bellow. Make sure you check "Copy items is needed".
+Select all frameworks in the folder and drag them into your project. You will see a dialog like the one bellow. Make sure you check "Copy items is needed".
 
 ![Name your project]({{site.baseurl}}/assets/images/create-project6.png)
 

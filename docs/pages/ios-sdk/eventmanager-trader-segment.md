@@ -26,7 +26,7 @@ AGTraderSegment *segment = [AGTraderSegment segment:segmentId apiKey:apiKey];
 Sets the segment membership time to live, in seconds.
 
 ```
-[segment setTtl:timeInSecods];
+[segment setTtl:timeInSeconds];
 ```
 
 ## Enable XD (leverage the Cross-device graph)
@@ -49,7 +49,7 @@ The downside of queuing the request is that you will not have immediate confirma
 By default is `NO`
 
 ```
-[segment setShouleQueue:YES];
+[segment setShouldQueue:YES];
 ```
 
 ## Make API Request to Add Device
@@ -138,7 +138,7 @@ NSString apiKey = @"your_api_key";
 AGTraderSegment *segment = [AGTraderSegment segment:segmentId apiKey:apiKey];
 [segment setTtl: 60 * 60 * 24 * 15];    // 15 days in seconds
 [segment setXd:YES];                    // Leverage the Cross-device graph
-[segment setShouleQueue:YES];           // Enable queuing for offline calls
+[segment setShouldQueue:YES];           // Enable queuing for offline calls
 [segment addDeviceWithCompletion:^(NSNumber *status, NSURL *url, NSError *error) {
     if (error != nil) {
         return;

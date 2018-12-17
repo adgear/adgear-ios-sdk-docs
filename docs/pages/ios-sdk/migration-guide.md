@@ -9,7 +9,7 @@ summary: This guide describes the changes required to migrate your application f
 
 ### Removed AdGear SDK Framework
 
-AdGear iOS SDK v4 was using `AdGearSDK` framework as a unifying module that was responsible for loading and rendeing varions types of ads. In AdGear iOS SDK v5 `AdGearSDK` was removed and its responsibilities are shared among folowing frameworks: `AdGearConsoleAd`, `AdGearTraderAd`, `AdGearSpotView`.
+AdGear iOS SDK v4 was using `AdGearSDK` framework as a unifying module that was responsible for loading and rendering various types of ads. In AdGear iOS SDK v5 `AdGearSDK` was removed and its responsibilities are shared among following frameworks: `AdGearConsoleAd`, `AdGearTraderAd`, `AdGearSpotView`.
 
 ### New Frameworks
 

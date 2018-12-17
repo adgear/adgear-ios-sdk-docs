@@ -2,10 +2,10 @@
 title: Request Data with URL Session
 sidebar: android_sdk_sidebar
 permalink: /eventmanager-url-connection
-summary: Event Manager's AGEContext class provides a conveninece method to get a pre-configured NSURLSession that includes "User-Agent" header.
+summary: Event Manager's AGEContext class provides a convenience method to get a pre-configured NSURLSession that includes "User-Agent" header.
 ---
 
-## Make URL Sesion
+## Make URL Session
 
 ```
 // Pre-configured url session

@@ -51,7 +51,7 @@ Add AGSpotView property in the interface section and declare that the view contr
     
     self.view.backgroundColor = UIColor.lightGrayColor;
     
-    // Make/reuest ad and load it into the spot view
+    // Make/request ad and load it into the spot view
     [AGTraderAdFactory makeSpotViewAdWithSiteTagId:@"f01c006da30145cfbe4841043735f21b" width:300 height:250 completion:^(AGSpotViewAd *spotViewAd, NSError *error) {
         if (error != nil) {
             NSLog(@"Error: %@", error);
@@ -88,7 +88,7 @@ At the end your `ViewController.m` file should look like this.
     
     self.view.backgroundColor = UIColor.lightGrayColor;
     
-    // Make/reuest ad and load it into the spot view
+    // Make/request ad and load it into the spot view
     [AGTraderAdFactory makeSpotViewAdWithSiteTagId:@"f01c006da30145cfbe4841043735f21b" width:300 height:250 completion:^(AGSpotViewAd *spotViewAd, NSError *error) {
         if (error != nil) {
             NSLog(@"Error: %@", error);

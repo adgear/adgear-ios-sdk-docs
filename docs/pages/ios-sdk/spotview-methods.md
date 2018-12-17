@@ -56,7 +56,7 @@ AGSpotView *spotView = [[AGSpotView alloc] initWithFrame:CGRectMake(x, y, width,
 - (void)spotViewFailedToLoad:(nonnull AGSpotView *)spotView;
 
 // Register impression
-- (void)spotViewDidCallRegregisterImpression:(nonnull AGSpotView *)spotView;
+- (void)spotViewDidCallRegisterImpression:(nonnull AGSpotView *)spotView;
 - (void)spotViewFailedToCallRegregisterImpression:(nonnull AGSpotView *)spotView;
 
 // Register event
